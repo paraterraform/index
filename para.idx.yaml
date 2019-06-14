@@ -13,6 +13,16 @@ provider:
         url: https://github.com/ashald/terraform-provider-consulacl/releases/download/v1.3.0/terraform-provider-consulacl_v1.3.0-windows-amd64.zip
         size: 28594176
         digest: sha256:c342589bd7611512b7de6bbd2799e26eff3053ebf22f00bfbe5d2502fa3500ee
+  stateful:
+    v1.1.0:
+      darwin_amd64:
+        url: https://github.com/ashald/terraform-provider-stateful/releases/download/v1.1.0/terraform-provider-stateful_v1.1.0-darwin-amd64.zip
+        size: 27599364
+        digest: sha256:b1bca4501403943881bdc659ab29d3e4fadf1f5491ec9539bb3a59a77cb7c5f4
+      linux_amd64:
+        url: https://github.com/ashald/terraform-provider-stateful/releases/download/v1.1.0/terraform-provider-stateful_v1.1.0-linux-amd64.zip
+        size: 27833249
+        digest: sha256:1aebf777ef7b7b8c81ebc681d81b2e5f890f9aae60f5f448a087142ffb74f198
   transform:
     v1.2.0:
       darwin_amd64:
