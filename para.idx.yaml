@@ -1,4 +1,18 @@
 provider:
+  alienvault:
+    v0.4.1:
+      darwin_amd64:
+        url: https://github.com/form3tech-oss/terraform-provider-alienvault/releases/download/v0.4.1/terraform-provider-alienvault_0.4.1_darwin_amd64.zip
+        size: 22606712
+        digest: sha256:c20934d5d4c6176294a845f00053446466f8a6c242979a7f82b91ce013852c75
+      linux_amd64:
+        url: https://github.com/form3tech-oss/terraform-provider-alienvault/releases/download/v0.4.1/terraform-provider-alienvault_0.4.1_linux_amd64.zip
+        size: 20147904
+        digest: sha256:a6779e3fef003ebaa44702a264cfb6ddf960afef3d94f45ed844d643e013dce0
+      windows_amd64:
+        url: https://github.com/form3tech-oss/terraform-provider-alienvault/releases/download/v0.4.1/terraform-provider-alienvault_0.4.1_windows_amd64.zip
+        size: 20074496
+        digest: sha256:88a83882b4f0ca6f7d4ba9beb3219228f942a79d4a15f3c7bb6faf57c8e08fea
   ansiblevault:
     v1.0.1:
       linux_amd64:
