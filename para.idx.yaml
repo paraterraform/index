@@ -14,15 +14,15 @@ provider:
       darwin_amd64:
         url: https://github.com/form3tech-oss/terraform-provider-alienvault/releases/download/v0.4.1/terraform-provider-alienvault_0.4.1_darwin_amd64.zip
         size: 22606712
-        digest: sha256:c20934d5d4c6176294a845f00053446466f8a6c242979a7f82b91ce013852c75
+        digest: sha256:14c0302927bae6770feb561c51ab94faf74b1ba623662b646f277883816d2649
       linux_amd64:
         url: https://github.com/form3tech-oss/terraform-provider-alienvault/releases/download/v0.4.1/terraform-provider-alienvault_0.4.1_linux_amd64.zip
         size: 20147904
-        digest: sha256:a6779e3fef003ebaa44702a264cfb6ddf960afef3d94f45ed844d643e013dce0
+        digest: sha256:814511e53b61d073b2f82da511789f2145447bfbc722a372f79ec5a4d366e223
       windows_amd64:
         url: https://github.com/form3tech-oss/terraform-provider-alienvault/releases/download/v0.4.1/terraform-provider-alienvault_0.4.1_windows_amd64.zip
         size: 20074496
-        digest: sha256:88a83882b4f0ca6f7d4ba9beb3219228f942a79d4a15f3c7bb6faf57c8e08fea
+        digest: sha256:b4be83da8703676addfbbb0347916fc8cbf1198c7ff59b98bb53a30173dc9478
   ansiblevault:
     v1.0.1:
       linux_amd64:
@@ -34,15 +34,15 @@ provider:
       darwin_amd64:
         url: https://github.com/ashald/terraform-provider-consulacl/releases/download/v1.3.0/terraform-provider-consulacl_v1.3.0-darwin-amd64.zip
         size: 28596932
-        digest: sha256:408287226dc805d6de4cbeb863b2572cdaf988b94534c9013208e4ce5cba79ff
+        digest: sha256:733a25b220c4b96c5b06eb7dddb2a4bceb03e4c7b7a8c625107b2f9d0a489295
       linux_amd64:
         url: https://github.com/ashald/terraform-provider-consulacl/releases/download/v1.3.0/terraform-provider-consulacl_v1.3.0-linux-amd64.zip
         size: 28849000
-        digest: sha256:51fdead1368aaba98c46b3195ffc2c706c5b4862d4cc39813d16f2d5d42e7154
+        digest: sha256:df568f142023b7ca13891dc4c4936a55703ff91cba6aa80ca02992721cf75203
       windows_amd64:
         url: https://github.com/ashald/terraform-provider-consulacl/releases/download/v1.3.0/terraform-provider-consulacl_v1.3.0-windows-amd64.zip
         size: 28594176
-        digest: sha256:c342589bd7611512b7de6bbd2799e26eff3053ebf22f00bfbe5d2502fa3500ee
+        digest: sha256:ea7cda710059973490e95b134cbed0ef1d3fa873cd85abce1adeb9a824c243b4
   onepassword:
     v0.3.0:
       darwin_amd64:
@@ -62,45 +62,45 @@ provider:
       darwin_amd64:
         url: https://github.com/ashald/terraform-provider-stateful/releases/download/v1.1.0/terraform-provider-stateful_v1.1.0-darwin-amd64.zip
         size: 27599364
-        digest: sha256:b1bca4501403943881bdc659ab29d3e4fadf1f5491ec9539bb3a59a77cb7c5f4
+        digest: sha256:d773f5aec17078b2d57eddc5b0d61feaea6fe122ee1008a3ef3876286494ec68
       linux_amd64:
         url: https://github.com/ashald/terraform-provider-stateful/releases/download/v1.1.0/terraform-provider-stateful_v1.1.0-linux-amd64.zip
         size: 27833249
-        digest: sha256:1aebf777ef7b7b8c81ebc681d81b2e5f890f9aae60f5f448a087142ffb74f198
+        digest: sha256:79a8b843079e97d31dfc6119365b1c0cc765f7a03ece873e5b971bb4361a82e6
   transform:
     v1.2.0:
       darwin_amd64:
         url: https://github.com/ashald/terraform-provider-transform/releases/download/v1.2.0/terraform-provider-transform_v1.2.0-darwin-amd64.zip
         size: 27772116
-        digest: sha256:c3c842149b8ebc14c9371e8bc74e2fe249abcc08a843a0d4439988cfa5153059
+        digest: sha256:428b40ee9576f4741b2c2e664c24a0bf1f550dca7a44814a22286685238b965e
       linux_amd64:
         url: https://github.com/ashald/terraform-provider-transform/releases/download/v1.2.0/terraform-provider-transform_v1.2.0-linux-amd64.zip
         size: 28032319
-        digest: sha256:f6dc292cf18ca97805e4d823f99caa257dfd8a3bf46c058aa58fdb05fd3a0a95
+        digest: sha256:1b1a4408940111da69ad8484aa371c5d4c128646629b20361d127fda544f2b79
   yaml:
     v2.1.0:
       darwin_amd64:
         url: https://github.com/ashald/terraform-provider-yaml/releases/download/v2.1.0/terraform-provider-yaml_v2.1.0-darwin-amd64.zip
         size: 28050340
-        digest: sha256:749ae8dc8561923465eae72ba50eed9a27109065c0d50e087a8dcc893df9eea2
+        digest: sha256:d6a6cd769ade3b62c92e4a23fcbf0ea27168f8b9645a05270e2cf992e1718fb9
       linux_amd64:
         url: https://github.com/ashald/terraform-provider-yaml/releases/download/v2.1.0/terraform-provider-yaml_v2.1.0-linux-amd64.zip
         size: 28294642
-        digest: sha256:aa9c4bdfd7e118f7c59cd4d1b3361f2badc7cafabac6dce1518c978e4797eae6
+        digest: sha256:ad2861d493efa193d85853ebe3a9797eb76a2357a5a3e440a64fb8f7038702f5
       windows_amd64:
         url: https://github.com/ashald/terraform-provider-yaml/releases/download/v2.1.0/terraform-provider-yaml_v2.1.0-windows-amd64.zip
         size: 28052992
-        digest: sha256:5d107a43b1d11b1c6d540702a0f33654a0e05168af27aae85771f724986269f3
+        digest: sha256:758a59eefe81ea78dc6749e84ce2fc24151c74b30224a6456bb00f319d32515c
     v2.0.2:
       darwin_amd64:
         url: https://github.com/ashald/terraform-provider-yaml/releases/download/v2.0.2/terraform-provider-yaml_v2.0.2-darwin-amd64.zip
         size: 27251028
-        digest: sha256:22c794d8c1e0bc4fd5a4f2a766c30aaa504515b373c17e534230be98e35cee6f
+        digest: sha256:506b7e614ac6220747bb82665efc5a5f6803e4e7833d9ec8a1fc2c379e0faa77
       linux_amd64:
         url: https://github.com/ashald/terraform-provider-yaml/releases/download/v2.0.2/terraform-provider-yaml_v2.0.2-linux-amd64.zip
         size: 27487301
-        digest: sha256:a472263a9376eaccec9b223f7dd513ce5859ee7f2da0cb773d7428284eeecf0e
+        digest: sha256:375441f8179e106061ffe4822926df45677517c114e3ece8fb42af325b240e1d
       windows_amd64:
         url: https://github.com/ashald/terraform-provider-yaml/releases/download/v2.0.2/terraform-provider-yaml_v2.0.2-windows-amd64.zip
         size: 27247104
-        digest: sha256:34f82d6ac9315c9e8cf499d3e68832a4f207b71ccbaa3cdc151a53d1284f5ffb
+        digest: sha256:66d50920eff7c80a2484bc788ca9753c13d1f6d3495846c729d001749a11136d
