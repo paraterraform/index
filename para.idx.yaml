@@ -43,6 +43,32 @@ provider:
         url: https://github.com/ashald/terraform-provider-consulacl/releases/download/v1.3.0/terraform-provider-consulacl_v1.3.0-windows-amd64.zip
         size: 28594176
         digest: sha256:ea7cda710059973490e95b134cbed0ef1d3fa873cd85abce1adeb9a824c243b4
+  k8sraw:
+    v0.1.96:
+      darwin_amd64:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.96/terraform-provider-k8sraw_v0.1.96-darwin-amd64.zip
+        size: 51618392
+        digest: sha256:0e69467149bd36b594588eca97b5344db0781dc3fae0d73dfc6491082013cceb
+      linux_386:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.96/terraform-provider-k8sraw_v0.1.96-linux-386.zip
+        size: 46246082
+        digest: sha256:260e45fc303c8f772c75a53cdd615b0ab16f147c9ae6a69d566ca2aff5360091
+      linux_amd64:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.96/terraform-provider-k8sraw_v0.1.96-linux-amd64.zip
+        size: 52017668
+        digest: sha256:ed4b8e3c96f87305ef43d4cf7434534d69684b5dbae2742ea1287cc3b9e5a768
+      linux_arm:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.96/terraform-provider-k8sraw_v0.1.96-linux-arm.zip
+        size: 45353489
+        digest: sha256:bff8ee91261266ec2a388dd56f8b5575f9110c2fb308b15f1cf2cb288b427afb
+      windows_386:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.96/terraform-provider-k8sraw_v0.1.96-windows-386.exe.zip
+        size: 46200832
+        digest: sha256:5ab2eeee3c8a93a0dfbe68bd89f0d1c5c98af411f87aaa8510e385b1898ce277
+      windows_amd64:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.96/terraform-provider-k8sraw_v0.1.96-windows-amd64.exe.zip
+        size: 51802624
+        digest: sha256:3f11bfae34777470eb7742fbed2ed33dba45472fbb6ebf70b7bafa548b8bfd65
   onepassword:
     v0.3.0:
       darwin_amd64:
