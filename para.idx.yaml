@@ -97,6 +97,16 @@ provider:
         url: https://github.com/cloudfoundry-community/terraform-provider-cf/releases/download/0.9.9/terraform-provider-cf_windows_amd64.exe
         size: 41805824
         digest: sha256:5eb0036b3854fbd007e15f5d8044738cd73eaa0320b1002ed1b1ddd271ecb70c
+  codeclimate:
+    v0.1.2:
+      darwin_amd64:
+        url: https://github.com/babbel/terraform-provider-codeclimate/releases/download/v0.1.2/terraform-provider-codeclimate_v0.1.2_darwin_amd64.zip
+        size: 26276472
+        digest: sha256:bcadaaf9959244375dd0a45516930b90224c32058535b0987512107c28e77192
+      linux_amd64:
+        url: https://github.com/babbel/terraform-provider-codeclimate/releases/download/v0.1.2/terraform-provider-codeclimate_v0.1.2_linux_amd64.zip
+        size: 26684289
+        digest: sha256:e888fb8682bd7472617035b77dc5ea52c82cfefdade8934a347b10f38b61cd5d
   consulacl:
     v1.3.0:
       darwin_amd64:
