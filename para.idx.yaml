@@ -43,6 +43,36 @@ provider:
         url: https://github.com/zambien/terraform-provider-apigee/releases/download/v0.0.16/terraform-provider-apigee_0.0.16_windows_amd64.tar.gz
         size: 21031936
         digest: sha256:c2dfa818071c751d8d1a24e9a662b7d5896eacc65f7b8357512208071b00ae8e
+  auth:
+    v0.0.2:
+      darwin_386:
+        url: https://github.com/Shuttl-Tech/terraform-provider-auth/releases/download/v0.0.2/terraform-provider-auth_darwin_386
+        size: 17755372
+        digest: sha256:4104ca41e54c1f9d14e231f0219f9116d73962b942a5472f0619da371add576a
+      darwin_amd64:
+        url: https://github.com/Shuttl-Tech/terraform-provider-auth/releases/download/v0.0.2/terraform-provider-auth_darwin_amd64
+        size: 21387152
+        digest: sha256:1a5e28d5a0891fe094e16acc300890a064878c6c6828d89da83de281803c9c17
+      linux_386:
+        url: https://github.com/Shuttl-Tech/terraform-provider-auth/releases/download/v0.0.2/terraform-provider-auth_linux_386
+        size: 15428768
+        digest: sha256:6c065171dc3d3328173575949a7b0a3d7739c7ba64f2837879074922e7e03308
+      linux_amd64:
+        url: https://github.com/Shuttl-Tech/terraform-provider-auth/releases/download/v0.0.2/terraform-provider-auth_linux_amd64
+        size: 18836384
+        digest: sha256:15566f45fe276d50d14286023e67407e3eaf5f17021987ccbffd40d3c7f48b7e
+      linux_arm:
+        url: https://github.com/Shuttl-Tech/terraform-provider-auth/releases/download/v0.0.2/terraform-provider-auth_linux_arm
+        size: 15260728
+        digest: sha256:fcaad25fc3863f9185ee91dfdc686c468a60490d9fb45fa031c72b82c1ee1cb6
+      windows_386:
+        url: https://github.com/Shuttl-Tech/terraform-provider-auth/releases/download/v0.0.2/terraform-provider-auth.exe_windows_386
+        size: 15436800
+        digest: sha256:a82e7e00aac566ef82e122f07f9b579c0f6a10fc6d42e15c45fa1b4db2d412e5
+      windows_amd64:
+        url: https://github.com/Shuttl-Tech/terraform-provider-auth/releases/download/v0.0.2/terraform-provider-auth.exe_windows_amd64
+        size: 18957824
+        digest: sha256:ed0de17e3cee31325880ea79a81d89797c67bbf764e93382f164175bacc00ccc
   consulacl:
     v1.3.0:
       darwin_amd64:
