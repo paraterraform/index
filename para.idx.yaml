@@ -29,6 +29,20 @@ provider:
         url: https://github.com/MeilleursAgents/terraform-provider-ansiblevault/releases/download/v1.0.1/terraform-provider-ansiblevault_v1.0.1
         size: 23756704
         digest: sha256:4ba933cbe6ec9f8c1f25a09c938fe29e608dec76faaf526fff72ea6f1f0084ca
+  apigee:
+    v0.0.16:
+      darwin_amd64:
+        url: https://github.com/zambien/terraform-provider-apigee/releases/download/v0.0.16/terraform-provider-apigee_0.0.16_darwin_amd64.tar.gz
+        size: 24183636
+        digest: sha256:a0bf2c99f23833b65fa26e0f125a97d1d1c7b9c886d8979dd3fae60d88af1807
+      linux_amd64:
+        url: https://github.com/zambien/terraform-provider-apigee/releases/download/v0.0.16/terraform-provider-apigee_0.0.16_linux_amd64.tar.gz
+        size: 21029504
+        digest: sha256:2e9c4d7ad77ca216bcb78e8a23ca90e53c4fa4fff39e6f681ecb763fa73d4bed
+      windows_amd64:
+        url: https://github.com/zambien/terraform-provider-apigee/releases/download/v0.0.16/terraform-provider-apigee_0.0.16_windows_amd64.tar.gz
+        size: 21031936
+        digest: sha256:c2dfa818071c751d8d1a24e9a662b7d5896eacc65f7b8357512208071b00ae8e
   consulacl:
     v1.3.0:
       darwin_amd64:
