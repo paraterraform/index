@@ -147,6 +147,20 @@ provider:
         url: https://s3.eu-west-1.amazonaws.com/kw-terraform-providers/cphalo/Releases/v0.1.3/terraform-provider-cphalo_v0.1.3_windows_amd64.zip
         size: 21317632
         digest: sha256:72493b645d0d4fab6636dac8d5e592a2cc31372fc43a0f94eec90f429cb2ecca
+  ct:
+    v0.3.2:
+      darwin_amd64:
+        url: https://github.com/poseidon/terraform-provider-ct/releases/download/v0.3.2/terraform-provider-ct-v0.3.2-darwin-amd64.tar.gz
+        size: 28499336
+        digest: sha256:e2d2afca609140d3fc8efd7f1a09f453f84bf2012960148c527fd68414c364f0
+      linux_amd64:
+        url: https://github.com/poseidon/terraform-provider-ct/releases/download/v0.3.2/terraform-provider-ct-v0.3.2-linux-amd64.tar.gz
+        size: 28822643
+        digest: sha256:7ec097f5895873df5c37c17542fa7933e283205c137252e830204df81aa47f72
+      windows_amd64:
+        url: https://github.com/poseidon/terraform-provider-ct/releases/download/v0.3.2/terraform-provider-ct-v0.3.2-windows-amd64.tar.gz
+        size: 28578304
+        digest: sha256:c1a33b709819eb7403b1caef3d4c2bc00442973399e30dbaf1363d1e9c461113
   k8sraw:
     v0.1.96:
       darwin_amd64:
