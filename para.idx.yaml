@@ -83,6 +83,20 @@ provider:
         url: https://github.com/agarciamiravet/terraform-provider-azuredevops/releases/download/v0.8.0/terraform-provider-azuredevops_windows_amd64.zip
         size: 25624576
         digest: sha256:bce0c48f5a31e5ac3100da485ef7f9f45a37071184e04bb2d1f257f14c641638
+  cloudfoundry:
+    v0.9.9:
+      darwin_amd64:
+        url: https://github.com/cloudfoundry-community/terraform-provider-cf/releases/download/0.9.9/terraform-provider-cf_darwin_amd64
+        size: 40932048
+        digest: sha256:15e004b7f9f21046615ab144aefd9915b49cdd45d21d38b17d06eff55636eaae
+      linux_amd64:
+        url: https://github.com/cloudfoundry-community/terraform-provider-cf/releases/download/0.9.9/terraform-provider-cf_linux_amd64
+        size: 41287480
+        digest: sha256:fd26e79df49507de5b3914ca8ad293eee3adb0af4ae4d0dd843e7fb52ef66c4a
+      windows_amd64:
+        url: https://github.com/cloudfoundry-community/terraform-provider-cf/releases/download/0.9.9/terraform-provider-cf_windows_amd64.exe
+        size: 41805824
+        digest: sha256:5eb0036b3854fbd007e15f5d8044738cd73eaa0320b1002ed1b1ddd271ecb70c
   consulacl:
     v1.3.0:
       darwin_amd64:
