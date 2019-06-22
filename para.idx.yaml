@@ -73,6 +73,16 @@ provider:
         url: https://github.com/Shuttl-Tech/terraform-provider-auth/releases/download/v0.0.2/terraform-provider-auth.exe_windows_amd64
         size: 18957824
         digest: sha256:ed0de17e3cee31325880ea79a81d89797c67bbf764e93382f164175bacc00ccc
+  azuredevops:
+    v0.8.0:
+      linux_amd64:
+        url: https://github.com/agarciamiravet/terraform-provider-azuredevops/releases/download/v0.8.0/terraform-provider-azuredevops_linux_amd64.zip
+        size: 25920210
+        digest: sha256:ac91b95384d85637181406cbe6d4d53cb099fd3e72ce1712faaaad4dbcbcd731
+      windows_amd64:
+        url: https://github.com/agarciamiravet/terraform-provider-azuredevops/releases/download/v0.8.0/terraform-provider-azuredevops_windows_amd64.zip
+        size: 25624576
+        digest: sha256:bce0c48f5a31e5ac3100da485ef7f9f45a37071184e04bb2d1f257f14c641638
   consulacl:
     v1.3.0:
       darwin_amd64:
