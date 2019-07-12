@@ -187,6 +187,31 @@ provider:
         url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.96/terraform-provider-k8sraw_v0.1.96-windows-amd64.exe.zip
         size: 51802624
         digest: sha256:3f11bfae34777470eb7742fbed2ed33dba45472fbb6ebf70b7bafa548b8bfd65
+    v0.1.97:
+      darwin_amd64:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.97/terraform-provider-k8sraw_v0.1.97-darwin-amd64.zip
+        size: 12677136
+        digest: sha256:3bda03be51f23bb48c6b4a8eda7c0f17849dde14771cd723d538f175d4b2e0e9
+      linux_386:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.97/terraform-provider-k8sraw_v0.1.97-linux-386.zip
+        size: 11093236
+        digest: sha256:e90a3bd87e2af2c6fc581cf83f0cae53f83b33d6f53b324840d39c0a508ec3a1
+      linux_amd64:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.97/terraform-provider-k8sraw_v0.1.97-linux-amd64.zip
+        size: 11996440
+        digest: sha256:9b91066544c0fd9e5109d58288744a5c364d2b851174012dfab2e1bb0119b2c4
+      linux_arm:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.97/terraform-provider-k8sraw_v0.1.97-linux-arm.zip
+        size: 10133796
+        digest: sha256:95ec85e77d6cb688f50f14f473a6ecc0f0fbdf6454f13503adfb5394020fc1cb
+      windows_386:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.97/terraform-provider-k8sraw_v0.1.97-windows-386.exe.zip
+        size: 10321408
+        digest: sha256:4b1c561c67caf16669cb17131b052e914120741e7b7f88b002f4cf8312d7a560
+      windows_amd64:
+        url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.97/terraform-provider-k8sraw_v0.1.97-windows-amd64.exe.zip
+        size: 11987968
+        digest: sha256:7a48ffed0cf22714d637a800277c44e8a29031320be1c730207aa529c663b6c6
   onepassword:
     v0.3.0:
       darwin_amd64:
