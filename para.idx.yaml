@@ -232,20 +232,6 @@ provider:
         url: https://raw.githubusercontent.com/paraterraform/index/master/provider/k8sraw/v0.1.97/terraform-provider-k8sraw_v0.1.97-windows-amd64.exe.zip
         size: 11987968
         digest: sha256:7a48ffed0cf22714d637a800277c44e8a29031320be1c730207aa529c663b6c6
-  onepassword:
-    v0.3.0:
-      darwin_amd64:
-        url: https://github.com/anasinnyk/terraform-provider-1password/releases/download/v0.3.0/terraform-provider-onepassword.darwin.amd64
-        size: 25590088
-        digest: sha256:c9be6ecb6bd356b0d8f1ba954d1eb3e5cc5c7203e7302693f8d3598d6c1ed4eb
-      linux_amd64:
-        url: https://github.com/anasinnyk/terraform-provider-1password/releases/download/v0.3.0/terraform-provider-onepassword.linux.amd64
-        size: 25986010
-        digest: sha256:3703d0bbad615c8a2c188319bd070222f7d3f1e864bac016ec4992b9a1314738
-      windows_amd64:
-        url: https://github.com/anasinnyk/terraform-provider-1password/releases/download/v0.3.0/terraform-provider-onepassword.windows.amd64.exe
-        size: 25658368
-        digest: sha256:01539e54bbd916badd8fa95f56425feba5aa855fd69ca5a496ba6dd0df17cca9
   stateful:
     v1.1.0:
       darwin_amd64:
