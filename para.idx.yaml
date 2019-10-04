@@ -23,12 +23,6 @@ provider:
         url: https://github.com/form3tech-oss/terraform-provider-alienvault/releases/download/v0.4.1/terraform-provider-alienvault_0.4.1_windows_amd64.zip
         size: 20074496
         digest: sha256:b4be83da8703676addfbbb0347916fc8cbf1198c7ff59b98bb53a30173dc9478
-  ansiblevault:
-    v1.0.1:
-      linux_amd64:
-        url: https://github.com/MeilleursAgents/terraform-provider-ansiblevault/releases/download/v1.0.1/terraform-provider-ansiblevault_v1.0.1
-        size: 23756704
-        digest: sha256:4ba933cbe6ec9f8c1f25a09c938fe29e608dec76faaf526fff72ea6f1f0084ca
   apigee:
     v0.0.16:
       darwin_amd64:
